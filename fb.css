@@ -1,0 +1,125 @@
+.header {
+    background: #3b5998;
+    width: 100%;
+    height: 100px;
+}
+
+body {
+    margin: 0;
+    font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+}
+
+.logo {
+    width: 50%;
+    padding-top: 44px;
+    float: left;
+}
+
+.login {
+    width: 50%;
+    float: left;
+    padding-top: 16px;
+}
+
+.logo-text {
+    color: #fff;
+    font-size: 37px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+}
+
+.login-label {
+    color: #fff;
+}
+
+.login-controls {
+    margin-left: 350px;
+}
+
+.login-class {
+    margin-left: 350px;
+}
+
+.forgotten {
+    color: #9cb4d8;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.sub-btn {
+    background: #4267b2;
+    color: #fff;
+    height: 21px;
+    border-color: #29487d;
+}
+
+.sub-btn:hover{
+    background: red;
+}
+
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 210px;
+    padding-top: 54px;
+}
+
+.righ-section{
+    width: 50%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 650px;
+}
+
+.image{
+    width: 617px;
+}
+
+.para{
+    font-weight: bold;
+    font-size: 28px
+}
+
+.textfield{
+    height: 33px;
+    width: 250px;
+    border-radius: 4px;
+    font-size: 17px;
+    border-width: thin;
+    padding-left: 11px;
+    margin-right: 10px;
+    float: left;
+}
+
+.long-textfield{
+    height: 33px;
+    width: 525px;
+    border-radius: 4px;
+    font-size: 17px;
+    border-width: thin;
+    padding-left: 11px;
+    margin-right: 10px;
+    margin-top: 14px;
+    float: left;
+}
+
+.select{
+    height: 25px;
+}
+
+.button{
+    width: 180px;
+    height: 40px;
+    color: white;
+    background: green;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+    border-width: thin;
+    border: green;
+}
